@@ -1,5 +1,5 @@
 
-### Programador
+### Software Analisty
+- Brasil 🇧🇷
 - Sistemas de Informação 👨‍💻
-- Learning PHP and JS 🌱
-
+- Learning All 🌱
