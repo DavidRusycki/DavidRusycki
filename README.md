@@ -1,5 +1,5 @@
 
-### Software Analyst
+### Software Developer
 - Brasil 🇧🇷
 - Sistemas de Informação 👨‍💻
 - Learning All 🌱
