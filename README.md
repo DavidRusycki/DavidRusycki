@@ -8,7 +8,7 @@ I am passionate about architecture and the development of scalable, high-quality
 Currently, I work architecting and maintaining large-scale scraping software. And, of course, I also keep my home lab running 24/7 and develop applications that I run on it. In addition, I am always studying something in the world of software development, seeking the pillars of flexibility, efficiency, and evolution over time.
 
 
-> technologies that I have already come into contact with
+> technologies with i had contact
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
